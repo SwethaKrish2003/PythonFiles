@@ -1,5 +1,6 @@
 #String 
 a="Swetha"
 b="MohanRaj"
-c=a=b
+d="Mr."
+c=d+a+b
 print(c)
